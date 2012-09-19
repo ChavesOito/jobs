@@ -1,7 +1,5 @@
-jobs
-====
-
 So… you’d like to work for Urbanizo?
+====
 
 
 We are looking for a team to help us make Urbanizo the largest real estate site in latin america. To do so, we will give back to users the power of the most important purchase decision of your life: your home.
